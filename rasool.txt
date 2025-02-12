@@ -1,12 +1,1 @@
-{
- "outbounds": [
-  {
-   "type": "ssh",
-   "tag": "Rasool VIP✔",
-   "server": "138.197.67.115",
-   "server_port": 22,
-   "user": "lionssh_rasoolnet",
-   "password": "rasool1403"
-  }
- ]
-}
+vmess://eyJhZGQiOiIyMDkuMTM1LjE3MS4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjJkZjMzMjgtZTcyZS0xMWVmLTk0MGYtYjNkOGNmOGYxOGY3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZwbmphbnRpdCIsInBvcnQiOiIxMDAwMCIsInBzIjoiU2VydmVyIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
