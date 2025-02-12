@@ -2,11 +2,11 @@
  "outbounds": [
   {
    "type": "ssh",
-   "tag": "Rasool VIP",
-   "server": "68.183.78.54",
+   "tag": "Rasool VIP✔",
+   "server": "138.197.67.115",
    "server_port": 22,
-   "user": "lionssh_Rasool1403",
-   "password": "Rasool1403"
+   "user": "lionssh_rasoolnet",
+   "password": "rasool1403"
   }
  ]
 }
